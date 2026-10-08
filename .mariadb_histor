@@ -1,0 +1,5 @@
+_HiStOrY_V2_
+show\040databases;
+use\040test;
+create\040table\040Departments(d_code\040varchar(20)\040primary\040key,d_name\040varchar(20),building\040varchar(20));
+insert\040into\040departments\040values("ECE","Elect\040and\040com\040","new\040block");
